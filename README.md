@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Dev-Abdullah-H/Dev-Abdullah-H/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah Haider</h1>
 <h3 align="center">Full-stack Developer, building resilient ecosystems.</h3>
 
