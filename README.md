@@ -4,13 +4,9 @@
 
 <img align="right" alt="coding" width="300" src="https://media1.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47ozkj3opj6w0h6vmji97acu4c8toqgb7l6xirxe6e&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-- 🌱 I’m currently learning **DSA**
-
 - 💬 Ask me about **Vue , JavaScript , Node , Html , Css**
 
 - 📫 How to reach me **e.abdullah.haider@gmail.com**
-
-- ⚡ Fun fact **Muhammad Abdullah Haider, the coding enthusiast, turns challenges into opportunities, crafting solutions with precision and a dash of humor. 💻😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
